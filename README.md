@@ -4,11 +4,11 @@ This repository collect the projects that I published on Youtube, based on STM32
 
 You can see the video here:
 
-1. Background subtraction http://www.youtube.com/watch?v=4xnvYrUxKvk
+1. [Background subtraction](http://www.youtube.com/watch?v=4xnvYrUxKvk)
 
-2. 3D modeller https://www.youtube.com/watch?v=LL79iNhs-dI
+2. [3D modeller](https://www.youtube.com/watch?v=LL79iNhs-dI)
 
-3. Basic Camera Image Manipulation https://www.youtube.com/watch?v=bY0V3qgmC14
+3. [Basic Camera Image Manipulation](https://www.youtube.com/watch?v=bY0V3qgmC14)
 
 The projects run on my computer under this path:
 
