@@ -1,6 +1,6 @@
 # STM32F7 Projects...
 
-This repository collect the projects I expose on Youtube, based on STM32F7-Discovery Board.
+This repository collect the projects that I published on Youtube, based on STM32F7-Discovery Board.
 
 You can see the video here:
 
