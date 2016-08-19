@@ -13,14 +13,3 @@ This file is the entire movie converted as singles RGB file, each one appended t
 
 Put the file on a SDCard. The program will read it.
 
-Script to generate the sanf32.bin file:
-
-mplayer.exe -nosound -vf scale=320:240 -vo png:z=0 -fps 10 "san_fran_traffic_30sec_QVGA_Cinepak.avi"
-
-mogrify -format rgb *.png
-
-cat *.rgb > sanf32.bin
-
-del *.rgb
-
-del *.png
