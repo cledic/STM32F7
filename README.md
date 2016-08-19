@@ -14,5 +14,5 @@ The projects run on my computer under this path:
 
 C:\Keil_v5\ARM\Pack\Keil\STM32F7xx_DFP\2.3.0\Projects\STM32746G-Discovery\Applications\FatFs
 
-The code is not well documented, nor elegant... so I hope syncerely to be usefull for anybody...
+The code is not well documented, nor elegant... so I hope sincerely to be usefull for anybody...
 
