@@ -6,7 +6,7 @@ This is the original site where I find the source: (https://macsbug.wordpress.co
 I made the porting for Keil, using mixed environment: C and C++.
 See (http://blog.embeddednotes.org/#raytrace_blog) for detail.
 
-The rendeing run on full-screen at 0.872014 seconds and at 320x240 of resolution at 0.5391 seconds. 
+The rendeing run on full-screen at 0.87 seconds and at 320x240 of resolution at 0.54 seconds. 
 
 The projects run on my computer under this path:
 
