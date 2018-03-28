@@ -1,7 +1,7 @@
 # STM32F769I-DISCO
 
 This program implement the Neural Network example, present on the last CMSIS library.
-You need to put the "test_batch.bin" [1] and to the content of "cifar10_bin_file.tar" file on the SDCard.
+You need to put the "test_batch.bin" [1] file on the SDCard.
 
 The program read randomly 375 images from the first 1000 images on the "test_batch.bin" file, visualize the image and call the cifar program using the content of the binary file extracted from the "cifar10_bin_file.tar" to evaluate the image.
 
@@ -17,4 +17,5 @@ Check:BAD,Image#:5601,Label:horse,Label#:07,Result#:09,ResultVal:127,Time:0.0927
 ```
 
 [1] https://www.cs.toronto.edu/~kriz/cifar.html
+
 [2] https://github.com/ARM-software/CMSIS_5/issues/325
