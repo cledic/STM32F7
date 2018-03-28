@@ -5,7 +5,11 @@ You need to put the "test_batch.bin" [1] file on the SDCard.
 
 The program read randomly 375 images from the first 1000 images on the "test_batch.bin" file, visualize the image and call the cifar program using the content of the binary file extracted from the "cifar10_bin_file.tar" to evaluate the image.
 
-The script "cifar10_2_NN_ver002.py" is modifyed to save the a binary file of the image converted to the correct format to feed the cifar function. The original script is here [2] with very helpful info about the image format.
+The script "cifar10_2_NN_dump_meandata.py" is modifyed to save the a binary and headr file of the calculated mean. The original script is here [2] with very helpful info about the image format.
+
+The "mean_array_uint8.h" file is the dump of the mean value calculated by the python script. I use it to prepare the image fali before to feed the "cifar" function.
+
+"The network is trained using the setup in Caffe where input data is raw RGB image minus data set mean image" [2]
 
 After the last image on screen, the program save a file on SDCard, "test_batch.txt" with the result. If you touch the screem  will appear a simple statistic about images.
 
