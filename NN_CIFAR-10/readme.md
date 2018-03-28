@@ -7,7 +7,7 @@ The program read randomly 375 images from the first 1000 images on the "test_bat
 
 The script "cifar10_2_NN_dump_meandata.py" is modifyed to save the a binary and headr file of the calculated mean. The original script is here [2] with very helpful info about the image format.
 
-The "mean_array_uint8.h" file is the dump of the mean value calculated by the python script. I use it to prepare the image fali before to feed the "cifar" function.
+The "mean_array_uint8.h" file is the dump of the mean value calculated by the python script. I use it to prepare the image file before to feed the "cifar" function.
 
 "The network is trained using the setup in Caffe where input data is raw RGB image minus data set mean image" [2]
 
