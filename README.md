@@ -14,7 +14,7 @@ You can see the video here:
 
 5. [Neural Network example](https://www.youtube.com/watch?v=qn9o6H-Uqt8)
 
-6. [Neural Network example with Camera] (https://www.youtube.com/watch?v=HdC8O_G4Q44)
+6. [Neural Network example with Camera](https://www.youtube.com/watch?v=HdC8O_G4Q44)
 
 The projects run on my computer under this path:
 
