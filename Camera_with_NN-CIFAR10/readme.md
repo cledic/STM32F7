@@ -2,6 +2,6 @@
 
 The program take from the camera an image snapshot of 128x128 pixel, then convert this snap to an image of 32x32 pixel format, to feed the CIFAR10 example program.
 
-Each image is processed on about 150ms. I will post the code soon.
+Each frame is processed on about 150ms. I will post the code soon.
 
 
